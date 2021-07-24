@@ -1,0 +1,7 @@
+Gui\Ventana$PanelInicio.class
+Logica\Pelota.class
+Gui\Ventana.class
+Logica\BordesDeTablero.class
+Logica\Archivo.class
+Logica\Nivel.class
+Logica\Obstaculo.class
